@@ -2,7 +2,7 @@
 
 A Scratch game built for CS50x where you protect a character from flying objects.
 
-![Game Preview](preview.png)
+![Game Preview](thumbnail.png)
 
 ## Play it live
 👉 [Click here to play on Scratch](https://scratch.mit.edu/projects/1329083121)
